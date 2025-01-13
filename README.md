@@ -1,6 +1,6 @@
 Author: Ifeanyi Emmanuel Ojukwu (Fexzi)
 
-DEMO: https://php.fexzihub.com/phpmotors/vehicles/?action=vehDetails&vehId=3
+DEMO: https://fexzitech.com/phpmotors/vehicles/?action=vehDetails&vehId=3
 
 You can create and edit an account for free, and also add reviews.
 
