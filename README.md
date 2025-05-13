@@ -1,5 +1,7 @@
 Author: Ifeanyi Emmanuel Ojukwu (Fexzi)
 
+---The project goal was for PHP MVC functionality and not CSS/UI design---
+
 DEMO: https://fexzitech.com/phpmotors/vehicles/?action=vehDetails&vehId=3
 
 You can create and edit an account for free, and also add reviews.
